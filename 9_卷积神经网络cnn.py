@@ -174,10 +174,10 @@ class Ann():
             # 随机初始化偏置 偏置和多少个人是一样的
             b_conv2 = self.bias_variables((64,))
             # 卷积+激活
-        x_relu2 = tf.nn.relu(tf.nn.conv2d(x_pool1, filter=w_conv2, strides=[1, 1, 1, 1], padding="SAME") + b_conv2)
-        # [None, 14,14,32]--->[None,14,14,64]
-        # 池化[None,14,14,64] -->[None,7,7,64]
-        x_pool2 = tf.nn.max_pool(x_relu2, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding="SAME")
+            x_relu2 = tf.nn.relu(tf.nn.conv2d(x_pool1, filter=w_conv2, strides=[1, 1, 1, 1], padding="SAME") + b_conv2)
+            # [None, 14,14,32]--->[None,14,14,64]
+            # 池化[None,14,14,64] -->[None,7,7,64]
+            x_pool2 = tf.nn.max_pool(x_relu2, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding="SAME")
 
         # 4. 全连接层 [None,7,7,64]--->[None,7*7*64] * [7*7*64, 10] + [10]= [None, 10]
         with tf.variable_scope("conv_2"):
