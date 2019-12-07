@@ -180,7 +180,7 @@ class Ann():
             x_pool2 = tf.nn.max_pool(x_relu2, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding="SAME")
 
         # 4. 全连接层 [None,7,7,64]--->[None,7*7*64] * [7*7*64, 10] + [10]= [None, 10]
-        with tf.variable_scope("conv_2"):
+        with tf.variable_scope("conv_3"):
             # 初始化权重和偏置
             w_fc = self.weight_variables(shape=(7 * 7 * 64, 10))
             b_fc = self.bias_variables(shape=(10,))

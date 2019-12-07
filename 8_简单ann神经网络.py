@@ -8,7 +8,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 tf.app.flags.DEFINE_integer("max_step", 2000, "模型训练的步数")
 tf.app.flags.DEFINE_string("data_dir", "./mnist/input_data", "数据文件路径")
 tf.app.flags.DEFINE_string("model_dir", "./ann/model", "模型文件的保存和加载路径")
-tf.app.flags.DEFINE_integer("is_train", 1, "模型训练")
+tf.app.flags.DEFINE_integer("is_train", 0, "模型训练")
 
 # 定义获取命令行参数名字
 FLAGS = tf.app.flags.FLAGS
@@ -113,7 +113,7 @@ class Ann():
                     print("测试的第%d张图片,数字是 %d,预测结果是 %d" % (
                         i,
                         tf.argmax(y_test, 1).eval(),
-                        tf.argmax(sess.run(y_predict, feed_dict={x: x_test, y_true: y_test}), 1).eval()
+                        tf.argmax(sess.run(y_predict, feed_dict={x: x_test}), 1).eval()
                     ))
 
         return None

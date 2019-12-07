@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8471ac2-f570-46e8-88de-aaaba617c0eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Captcha_Recognize.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_Captcha_Recognize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_简单ann神经网络.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_简单ann神经网络.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9_卷积神经网络cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/9_卷积神经网络cnn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,45 +14,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Deep_Learning$3.coverage" NAME="3 Coverage Results" MODIFIED="1574831673746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$5_.coverage" NAME="5_读取图像文件 Coverage Results" MODIFIED="1575010296457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$6_.coverage" NAME="6_读取二进制文件 Coverage Results" MODIFIED="1575020743179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$2_.coverage" NAME="2_张量的操作 Coverage Results" MODIFIED="1574846185103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$9_cnn.coverage" NAME="9_卷积神经网络cnn Coverage Results" MODIFIED="1575175266190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$10_Captcha_Recognize.coverage" NAME="10_Captcha_Recognize Coverage Results" MODIFIED="1575355270132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$5_.coverage" NAME="5_读取图像文件 Coverage Results" MODIFIED="1575535250712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Deep_Learning$3_.coverage" NAME="3_数据读取 Coverage Results" MODIFIED="1574929265161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$4_csv.coverage" NAME="4_读取csv文件 Coverage Results" MODIFIED="1574998000055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1575546663705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1575558857079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1575701796370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fruits" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$3.coverage" NAME="3 Coverage Results" MODIFIED="1574831673746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$to_chinese.coverage" NAME="to_chinese Coverage Results" MODIFIED="1575466116843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$zhwiki_word2vec.coverage" NAME="zhwiki_word2vec Coverage Results" MODIFIED="1575531946001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wiki" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$9_cnn.coverage" NAME="9_卷积神经网络cnn Coverage Results" MODIFIED="1575701923891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$10_Captcha_Recognize.coverage" NAME="10_Captcha_Recognize Coverage Results" MODIFIED="1575700773779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Deep_Learning$1_tensorflow.coverage" NAME="1_tensorflow基本使用 Coverage Results" MODIFIED="1575125496379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$7_tfrecords.coverage" NAME="7_tfrecords文件的读取和存储 Coverage Results" MODIFIED="1575035840962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deep_Learning$8_ann.coverage" NAME="8_简单ann神经网络 Coverage Results" MODIFIED="1575355829554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$fruits_input.coverage" NAME="fruits_input Coverage Results" MODIFIED="1575623437723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fruits" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1575558058470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$fruits_train.coverage" NAME="fruits_train Coverage Results" MODIFIED="1575701327911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fruits" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1575542272543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$6_.coverage" NAME="6_读取二进制文件 Coverage Results" MODIFIED="1575020743179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$fruits_input__1_.coverage" NAME="fruits_input (1) Coverage Results" MODIFIED="1575648811069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fruits" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1575559721219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$4_csv.coverage" NAME="4_读取csv文件 Coverage Results" MODIFIED="1574998000055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$2_.coverage" NAME="2_张量的操作 Coverage Results" MODIFIED="1574846185103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$my_faces.coverage" NAME="my_faces Coverage Results" MODIFIED="1575562824805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN_faces" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1575540403154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1575547016724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1575558509692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$fruits_input1.coverage" NAME="fruits_input1 Coverage Results" MODIFIED="1575642969584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fruits" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1575560715058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$7_tfrecords.coverage" NAME="7_tfrecords文件的读取和存储 Coverage Results" MODIFIED="1575614686871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$8_ann.coverage" NAME="8_简单ann神经网络 Coverage Results" MODIFIED="1575612819658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1575540793973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_demo" />
+    <SUITE FILE_PATH="coverage/Deep_Learning$11_gensim_word2vec.coverage" NAME="11_gensim_word2vec Coverage Results" MODIFIED="1575531910187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9_卷积神经网络cnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-552">
-              <caret line="138" column="16" lean-forward="true" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_Captcha_Recognize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1023">
-              <caret line="133" selection-start-line="133" selection-end-line="133" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +54,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>r_108_100</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,12 +78,44 @@
         <option value="$PROJECT_DIR$/4_读取csv文件.py" />
         <option value="$PROJECT_DIR$/5_读取图像文件.py" />
         <option value="$PROJECT_DIR$/6_读取二进制文件.py" />
-        <option value="$PROJECT_DIR$/7_tfrecords文件的读取和存储.py" />
-        <option value="$PROJECT_DIR$/8_简单ann神经网络.py" />
         <option value="$PROJECT_DIR$/1_tensorflow基本使用.py" />
         <option value="$PROJECT_DIR$/2_线性回归.py" />
+        <option value="$PROJECT_DIR$/11_gensim_word2vec.py" />
+        <option value="$PROJECT_DIR$/wiki_process.py" />
+        <option value="$PROJECT_DIR$/to_chinese.py" />
+        <option value="$PROJECT_DIR$/Traditional Chinese to Simplified Chinese/chinese_t2s.py" />
+        <option value="$PROJECT_DIR$/Chinese/chinese_t2s.py" />
+        <option value="$PROJECT_DIR$/wiki/Chinese/chinese_t2s.py" />
+        <option value="$PROJECT_DIR$/wiki/clean_characters/clean_corpus.py" />
+        <option value="$PROJECT_DIR$/wiki/1_wikidata_process/wiki_process.py" />
+        <option value="$PROJECT_DIR$/wiki/2_Chinese/chinese_t2s.py" />
+        <option value="$PROJECT_DIR$/wiki/1_wikidata_process/test.py" />
+        <option value="$PROJECT_DIR$/wiki/1_wikidata_process/zhwiki_jieba.py" />
+        <option value="$PROJECT_DIR$/wiki/1_wikidata_process/test.txt" />
+        <option value="$PROJECT_DIR$/wiki/1_wikidata_process/word2vec_model.py" />
+        <option value="$PROJECT_DIR$/wiki/5_zhwiki_model/word2vec_model.py" />
+        <option value="$PROJECT_DIR$/wiki/zhwiki_word2vec.py" />
         <option value="$PROJECT_DIR$/9_卷积神经网络cnn.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test1.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test2.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test3.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test4.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test5.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test6.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test7.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test8.py" />
+        <option value="$PROJECT_DIR$/opencv_demo/test9.py" />
+        <option value="$PROJECT_DIR$/CNN_faces/my_faces.py" />
+        <option value="$PROJECT_DIR$/8_简单ann神经网络.py" />
         <option value="$PROJECT_DIR$/10_Captcha_Recognize.py" />
+        <option value="$PROJECT_DIR$/7_tfrecords文件的读取和存储.py" />
+        <option value="$PROJECT_DIR$/fruits/constants.py" />
+        <option value="$PROJECT_DIR$/fruits/tfrecords/fruits_input1.py" />
+        <option value="$PROJECT_DIR$/fruits/fruits_input1.py" />
+        <option value="$PROJECT_DIR$/fruits/fruits_input.py" />
+        <option value="$PROJECT_DIR$/fruits/fruits_train.py" />
+        <option value="$PROJECT_DIR$/fruits/test.py" />
       </list>
     </option>
   </component>
@@ -107,7 +141,7 @@
             <path>
               <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="tfrecords" type="462c0819:PsiDirectoryNode" />
+              <item name="fruits" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,7 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Machine-Learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -135,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8_简单ann神经网络">
+  <component name="RunManager" selected="Python.9_卷积神经网络cnn">
     <configuration name="10_Captcha_Recognize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Deep-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,72 +184,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Captcha_Recognize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1_tensorflow基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Deep-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_tensorflow基本使用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7_tfrecords文件的读取和存储" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Deep-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_tfrecords文件的读取和存储.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8_简单ann神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Deep-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_简单ann神经网络.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,13 +214,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="fruits_input (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fruits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fruits/fruits_input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fruits_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fruits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fruits/fruits_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Deep-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fruits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fruits/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8_简单ann神经网络" />
-        <item itemvalue="Python.10_Captcha_Recognize" />
         <item itemvalue="Python.9_卷积神经网络cnn" />
-        <item itemvalue="Python.1_tensorflow基本使用" />
-        <item itemvalue="Python.7_tfrecords文件的读取和存储" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.fruits_train" />
+        <item itemvalue="Python.10_Captcha_Recognize" />
+        <item itemvalue="Python.fruits_input (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -275,12 +309,21 @@
       <workItem from="1575167882626" duration="8617000" />
       <workItem from="1575252470620" duration="2700000" />
       <workItem from="1575289852470" duration="597000" />
-      <workItem from="1575342382323" duration="9478000" />
+      <workItem from="1575342382323" duration="10997000" />
+      <workItem from="1575444910890" duration="50000" />
+      <workItem from="1575454583167" duration="9303000" />
+      <workItem from="1575483774269" duration="5346000" />
+      <workItem from="1575526598073" duration="3270000" />
+      <workItem from="1575533990819" duration="52000" />
+      <workItem from="1575535138068" duration="8916000" />
+      <workItem from="1575556470175" duration="5786000" />
+      <workItem from="1575610839451" duration="37692000" />
+      <workItem from="1575697321404" duration="3853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126305000" />
+    <option name="totallyTimeSpent" value="202092000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,15 +336,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="28" width="1632" height="860" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10646388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17300381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4876033" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39807162" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
@@ -322,217 +364,178 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.virtualenvs/wj_py3_suanfa/lib/python3.6/site-packages/tensorflow/__init__.py" />
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow2.0/lib/python3.6/site-packages/tensorflow_core/_api/v2/compat/__init__.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/numpy/core/arrayprint.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-789">
+        <state relative-caret-position="138">
+          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="2664" column="4" selection-start-line="2664" selection-start-column="4" selection-end-line="2664" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
-            <element signature="e#431#487#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow2.0/lib/python3.6/site-packages/tensorflow_core/_api/v2/compat/v1/__init__.py">
+    <entry file="file://$PROJECT_DIR$/opencv_demo/img_cv2.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/img_pyplot.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/picture.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/resized_200x200.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/resized_200x300.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/pic2.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/bordered_300x300.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-859" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow2.0/lib/python3.6/site-packages/tensorflow_core/python/keras/api/_v2/keras/datasets/mnist/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#173#229#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow2.0/lib/python3.6/site-packages/tensorflow_core/python/keras/api/_v2/keras/datasets/__init__.py">
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="391">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow2.0/lib/python3.6/site-packages/tensorflow/__init__.py">
+    <entry file="file://$PROJECT_DIR$/opencv_demo/colorless.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/cropped_tree.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/darker.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/gamma_corrected.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/turn_green.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/lanka_safari_transformed.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/lanka_safari_sheared.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/lanka_elephant.jpg" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/lanka_safari_rotated.jpg" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-541042342/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <folding>
-            <element signature="e#736#794#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="142">
+          <caret line="4109" column="4" selection-start-line="4109" selection-start-column="4" selection-end-line="4109" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-541042342/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="4743" column="8" selection-start-line="4743" selection-start-column="8" selection-end-line="4743" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_张量的操作.py" />
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="1305" column="4" selection-start-line="1305" selection-start-column="4" selection-end-line="1305" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/summary/writer/writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="95" column="38" lean-forward="true" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/training/saver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="929" column="6" selection-start-line="929" selection-start-column="6" selection-end-line="929" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_线性回归.py" />
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/data_flow_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="326" column="6" selection-start-line="326" selection-start-column="6" selection-end-line="326" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/training/queue_runner_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csv_data/911.csv" />
-    <entry file="file://$PROJECT_DIR$/csv_data/BeijingPM20100101_20151231.csv" />
-    <entry file="file://$PROJECT_DIR$/csv_data/ChengduPM20100101_20151231.csv" />
-    <entry file="file://$PROJECT_DIR$/csv_data/ShanghaiPM20100101_20151231.csv" />
-    <entry file="file://$PROJECT_DIR$/csv_data/ShenyangPM20100101_20151231.csv" />
-    <entry file="file://$PROJECT_DIR$/csv_data/GuangzhouPM20100101_20151231.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/io_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="391" column="30" lean-forward="true" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/core/example/example_pb2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/core/example/feature_pb2.py">
+    <entry file="file://$PROJECT_DIR$/opencv_demo/contoursImage2.jpg" />
+    <entry file="file://$PROJECT_DIR$/CNN_faces/my_faces.py" />
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="362" selection-start-line="362" selection-end-line="362" />
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/parsing_ops.py">
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+        <state relative-caret-position="207">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/training/input.py">
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="171" column="4" selection-start-line="171" selection-start-column="4" selection-end-line="171" selection-end-column="4" />
+        <state relative-caret-position="230">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_gensim_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/test8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/pic1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_demo/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/gen_image_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="293" column="21" lean-forward="true" selection-start-line="293" selection-start-column="21" selection-end-line="293" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/gen_parsing_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="123">
           <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/client/session.py">
+    <entry file="file://$PROJECT_DIR$/fruits/tfrecords/fruits_input1.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/util/compat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="766" selection-start-line="766" selection-end-line="766" />
-        </state>
+        <state relative-caret-position="-690" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py">
+    <entry file="file://$PROJECT_DIR$/6_读取二进制文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="1326" column="4" selection-start-line="1326" selection-start-column="4" selection-end-line="1326" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/training/gradient_descent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/summary/summary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="93" column="19" lean-forward="true" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ckpt/checkpoint">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ann/checkpoint">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_线性回归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="95" column="38" lean-forward="true" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_数据读取.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_读取csv文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="-828">
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -541,90 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5_读取图像文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_读取二进制文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-507">
-          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/gen_nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="346" column="4" selection-start-line="346" selection-start-column="4" selection-end-line="346" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="1621" column="4" selection-start-line="1621" selection-start-column="4" selection-end-line="1621" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_tensorflow基本使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/framework/constant_op.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/gen_array_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="2559" column="4" selection-start-line="2559" selection-start-column="4" selection-end-line="2559" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/framework/ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="379" column="6" selection-start-line="379" selection-start-column="6" selection-end-line="379" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_Captcha_Recognize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1023">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_简单ann神经网络.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+        <state relative-caret-position="223">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -633,8 +554,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7_tfrecords文件的读取和存储.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="149" selection-end-column="27" />
+        <state relative-caret-position="-483">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/ops/gen_io_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="191" column="4" selection-start-line="191" selection-start-column="4" selection-end-line="191" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/platform/gfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/tensorflow1.0/lib/python3.6/site-packages/tensorflow/python/training/queue_runner_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="382" column="4" selection-start-line="382" selection-start-column="4" selection-end-line="382" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_简单ann神经网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1049">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruits/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruits/fruits_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruits/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="88" column="45" lean-forward="true" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -643,8 +625,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9_卷积神经网络cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
-          <caret line="138" column="16" lean-forward="true" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
+        <state relative-caret-position="-173">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_Captcha_Recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruits/fruits_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

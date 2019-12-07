@@ -102,6 +102,7 @@ class CaptchaRecognize():
         # 5. 梯度下降优化求出损失
         with tf.variable_scope("optimizer"):
             train_op = tf.train.GradientDescentOptimizer(0.01).minimize(loss)
+            # train_op = tf.train.AdamOptimizer(0.01).minimize(loss)
 
         # 6. 计算准确率
         with tf.variable_scope("acc"):
@@ -130,7 +131,9 @@ class CaptchaRecognize():
             # 回收子线程
             coord.request_stop()
             coord.join(threads)
-
+            # 卷积层 keep_prob_fifty:0.5 每个元素被保留下来的概率
+            # 全连层 0.75
+            # 预测的时候都为1.0
 
 
 if __name__ == "__main__":
